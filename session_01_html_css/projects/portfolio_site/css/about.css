@@ -11,3 +11,9 @@
     grid-template-columns: 2fr 2fr;
 }
 
+@media (max-width: 768px) {
+    .about-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
